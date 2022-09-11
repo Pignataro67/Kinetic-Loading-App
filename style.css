@@ -7,13 +7,18 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 100vh;
+  height: 95vh;
   overflow: hidden;
   margin: 0;
 }  
 
 .kinetic {
   position: relative;
-  height: 80px;
-  width: 80px;
+  height: 77px;
+  width: 95px;
+}
+
+.kinetic::after,
+.kinetic::before {
+  content: '';
 }
