@@ -27,6 +27,12 @@ body {
   width: 350px;
 }
 
+.progress-container::before {
+  content: '';
+  background-color: var(--line-border-empty);
+  position: absolute;
+}
+
 .panel {
   background-size: cover;
   background-position: center;
