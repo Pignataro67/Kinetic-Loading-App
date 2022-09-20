@@ -18,6 +18,12 @@ body {
   width: 90vw;
 }
 
+.progress-container {
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+}
+
 .panel {
   background-size: cover;
   background-position: center;
@@ -60,3 +66,4 @@ body {
       display: none;
   }
 }
+
