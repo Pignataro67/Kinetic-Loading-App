@@ -39,6 +39,11 @@ body {
   z-index: -1;
 }
 
+.progress {
+  background-color: var(--line-border-fill);
+  position: absolute;
+}    
+
 .panel {
   background-size: cover;
   background-position: center;
