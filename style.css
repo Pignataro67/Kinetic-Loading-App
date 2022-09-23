@@ -51,6 +51,12 @@ body {
   transition: 0.4s ease;
 }    
 
+circle {
+  background-color: #1f1f1f;
+  color:#e2e2e2;
+  border-radius: 50%;
+}
+
 .panel {
   background-size: cover;
   background-position: center;
