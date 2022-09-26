@@ -11,8 +11,8 @@ body {
 }
 
 .container {
-  display: flex;
-  width: 90vw;
+  background-color: #fafafa;
+  transform-origin: top left;
 }
 
 .progress-container {
