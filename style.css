@@ -19,6 +19,11 @@ body {
   padding: 50px;
 }
 
+
+.container.show-nav {
+    transform: rotate(-20deg);
+  }
+
 .progress-container {
   display: flex;
   justify-content: space-between;
