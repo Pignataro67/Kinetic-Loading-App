@@ -43,6 +43,9 @@ body {
     cursor: pointer;
     position: absolute;
     top: 50%;
+    left: 50%;
+  height: 100px;
+  background: transparent;
   }
 
   .container.show-nav .circle {
