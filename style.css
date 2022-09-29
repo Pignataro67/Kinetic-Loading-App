@@ -46,6 +46,9 @@ body {
     left: 50%;
   height: 100px;
   background: transparent;
+  border: 0;
+  font-size: 26px;
+  color: #fff;
   }
 
   .container.show-nav .circle {
