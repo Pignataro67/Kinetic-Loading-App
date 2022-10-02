@@ -97,7 +97,7 @@ circle {
   display: flex;
   align-items: center;
   justify-content: center;
-  border: 3px solid var(--line-border-empty);
+  border: 2px solid var(--line-border-empty);
   transition: 0.4s ease;
 }
 
@@ -109,12 +109,12 @@ circle {
     background-color: var(--line-border-fill);
     color: #fff;
     border: 0;
-    border-radius: 5px;
+    border-radius: 4px;
     cursor: pointer;
     font-family: inherit;
-    padding: 7px 20px;
-    margin: 7px;
-    font-size: 1opx;
+    padding: 6px 20px;
+    margin: 6px;
+    font-size: 10px;
   }
 
 .panel {
