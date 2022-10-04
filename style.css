@@ -29,3 +29,9 @@ body {
   width: 50px;
   transition: width 0.3s ease
 }
+
+.btn {
+  background-color: #fff;
+  border: 0;
+  cursor: pointer;
+}
