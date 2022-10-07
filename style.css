@@ -20,9 +20,14 @@ h1 {
   }
   
   .box {
-    background-color: steelblue;
-    color: #fff;
-  }
+  background-color: steelblue;
+  color: #fff;
+  align-items: center;
+  justify-content: center;
+  width: 400px;
+  height: 200px;
+  margin: 10px;
+}
 
 .search {
   position: relative;
