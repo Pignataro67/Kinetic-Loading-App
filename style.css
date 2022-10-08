@@ -73,3 +73,7 @@ h1 {
 .search.active .btn {
   transform: translateX(198px);
 }
+
+.box:nth-of-type(even) {
+  transform: translateX(-400%);
+}
