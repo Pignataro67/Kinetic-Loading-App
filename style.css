@@ -34,7 +34,11 @@ h1 {
 .btn {
   position: absolute;
   display: flex;
-  align-items: center;justify-content: center;
+  align-items: center;
   left: 50%;
   top: 40%;
+  transform: translateX(-50%);
+  text-decoration: none;
+  color: #fff;
+  border: #fff solid 0.2rem;
 }
