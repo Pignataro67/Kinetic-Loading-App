@@ -23,10 +23,10 @@ body {
 }
 
 h1 {
-  font-size: 4rem;
+  font-size: 3rem;
   color: #fff;
-  position: absolute;left: 50%;
-  top: 20%;
+  position: absolute;left: 45%;
+  top: 25%;
   transform: translateX(-50%);
   white-space: nowrap;
 }
