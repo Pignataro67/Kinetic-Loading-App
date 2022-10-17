@@ -35,17 +35,17 @@ h1 {
   position: absolute;
   display: flex;
   align-items: center;
-  left: 50%;
-  top: 40%;
+  left: 45%;
+  top: 35%;
   transform: translateX(-50%);
   text-decoration: none;
   color: #fff;
-  border: #fff solid 0.2rem;
+  border: #fff solid 0.4rem;
   font-size: 1rem;
   font-weight: bold;
   text-transform: uppercase;
-  width: 155rem;
-  padding: 1.5rem;
+  width: 145rem;
+  padding: 2.0rem;
 }
 
 .split.left .btn:hover {
